@@ -1,0 +1,6 @@
+{
+  "name": "2MR – To Master Research",
+  "description": "Global Knowledge & Research Platform. AI-powered multi-source search, source agreement analysis, video intelligence, interactive knowledge maps, and structured research builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
